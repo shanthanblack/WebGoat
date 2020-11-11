@@ -123,7 +123,7 @@ To change IP address add the following variable to WebGoat/webgoat-container/src
 server.address=x.x.x.x
 ```
 
-# Building a new Docker image
+# Building a new Docker image --- add
 
 NOTE: Travis will create a new Docker image automatically when making a new release.
 
